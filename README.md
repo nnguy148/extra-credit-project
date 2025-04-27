@@ -34,4 +34,14 @@ Create your character, battle enemies, complete missions, and find your way to f
 - **Middle:** Meet villagers, fight monsters, gather clues.
 - **End:** Find the portal and escape the cursed land.
 
+## 📺 Demo Video
+
+Watch the gameplay demo here: [Click to Watch](https://www.youtube.com/watch?v=kbO1B6EE7wM)
+
+## 🛠 How to Run
+
+```bash
+g++ -std=c++11 actual.cpp -o RPGGame
+./RPGGame
+
 
